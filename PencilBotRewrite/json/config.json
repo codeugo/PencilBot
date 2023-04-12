@@ -1,0 +1,7 @@
+{
+    "token": "tokenbotdiscord",
+    "serverid": serverid,
+    "bannedWords": ["twitter"],
+    "quoi": ["quoi", "koi", "kua"],
+    "weebWords": ["uwu", "owo", "qwq"]
+}
